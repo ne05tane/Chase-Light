@@ -13,14 +13,20 @@ This Sequencer is my first ever attempt at pcb making. The 555 IC sends input to
 [PickAndPlace_BLINKY.xlsx](https://github.com/user-attachments/files/28779495/PickAndPlace_BLINKY.xlsx)
 
 ## Credits-
-Huge thanks to **[Author Name]** for the original **[Tutorial Name]** ([Link](#)). This repository contains my modified version of their design, featuring [briefly mention 1-2 key changes, e.g., "a compact form factor and updated footprints"].   
+Huge thanks to **@Tanishq Goyal** for the original **Blinky Board** (https://blueprint.hackclub.com/starter-projects/blinky). This repository contains my modified version featuring a circular board outline
 
 ## License-
 
 This project is **Open Source Hardware**.
 
-The hardware design files (schematics, PCB layouts, and BOM) are licensed under the **CERN Open Hardware Licence v2 - Permissive (CERN-OHL-P-2.0)**.
+## License
 
-You are free to use, modify, and distribute these designs for any purpose (including commercial) provided you retain the copyright notice and reference the original source.
+This project is licensed under the **MIT License**.
 
-SPDX-License-Identifier: CERN-OHL-P-2.0   
+Permission is hereby granted, free of charge, to any person obtaining a copy of this hardware design and associated documentation files (the "Design"), to deal in the Design without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Design, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Design.
+
+THE DESIGN IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+Copyright © [2026] [Ana]   
