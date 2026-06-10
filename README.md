@@ -13,13 +13,9 @@ This Sequencer is my first ever attempt at pcb making. The 555 IC sends input to
 [PickAndPlace_BLINKY.xlsx](https://github.com/user-attachments/files/28779495/PickAndPlace_BLINKY.xlsx)
 
 ## Credits-
-Huge thanks to **@Tanishq Goyal** for the original **Blinky Board** (https://blueprint.hackclub.com/starter-projects/blinky). This repository contains my modified version featuring a circular board outline
+Huge thanks to **@Tanishq Goyal** for the original **Blinky Board** (https://blueprint.hackclub.com/starter-projects/blinky). This repository contains my modified version featuring a circular board outline.
 
 ## License-
-
-This project is **Open Source Hardware**.
-
-## License
 
 This project is licensed under the **MIT License**.
 
