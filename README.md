@@ -1,8 +1,12 @@
-## 3D Model-
-<img width="809" height="595" alt="Screenshot 2026-06-09 104715" src="https://github.com/user-attachments/assets/83ef4d47-d4e7-4aba-96f8-9e6d042d9517" />
+<img width="353" height="541" alt="Screenshot 2026-06-10 121149" src="https://github.com/user-attachments/assets/87ddcfb5-af5f-4d04-935d-39d57218c2bb" />
 
 ## Desc-
 This Sequencer is my first ever attempt at pcb making. The 555 IC sends input to the main 4017 IC which controls all of the LED’s flashing. The circuit is powered by C492401 which is a header or little pins . 
+
+## 3D Model-
+<img width="809" height="595" alt="Screenshot 2026-06-09 104715" src="https://github.com/user-attachments/assets/83ef4d47-d4e7-4aba-96f8-9e6d042d9517" />
+<img width="733" height="447" alt="Screenshot 2026-06-09 104745" src="https://github.com/user-attachments/assets/e3ed027a-7633-4373-8adb-95911f88479e" />
+<img width="813" height="592" alt="Screenshot 2026-06-08 095603" src="https://github.com/user-attachments/assets/73e41fab-b274-4019-89f4-1e9569477bb4" />
 
 ## PCB Design-
 <img width="787" height="553" alt="Screenshot 2026-06-08 100735" src="https://github.com/user-attachments/assets/96c71f29-f02b-44ca-9f32-5b7536954681" />
