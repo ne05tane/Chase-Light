@@ -17,8 +17,10 @@ without being overwhelmed and a sequencer/blinky/LED Chaser is a classic hello w
 ## BOM-
 [PickAndPlace_BLINKY.xlsx](https://github.com/user-attachments/files/28779495/PickAndPlace_BLINKY.xlsx)
 
-## Credits-
-Huge thanks to **@Tanishq Goyal** for the original **Blinky Board** (https://blueprint.hackclub.com/starter-projects/blinky). This repository contains my modified version featuring a circular board outline.
+## Note-
+This repository contains my modified version of the original **Blinky Board** (https://blueprint.hackclub.com/starter-projects/blinky). 
+
+Special thanks **@Keyaan** for helping me in the process
 
 ## License-
 
