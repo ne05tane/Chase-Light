@@ -1,7 +1,8 @@
 <img width="353" height="541" alt="Screenshot 2026-06-10 121149" src="https://github.com/user-attachments/assets/87ddcfb5-af5f-4d04-935d-39d57218c2bb" />
 
 ## Desc-
-This Sequencer is my first ever attempt at pcb making. The 555 IC sends input to the main 4017 IC which controls all of the LED’s flashing. The circuit is powered by C492401 which is a header or little pins . 
+This Sequencer is my first ever attempt at pcb making. The 555 IC sends input to the main 4017 IC which controls all of the LED’s flashing. The circuit is powered by the C492401 header. I wanted to be able to learn pcb design and the steps involved in manufacturing 
+without being overwhelmed and a sequencer/blinky/LED Chaser is a classic hello world project of embedded systems and hardware.
 
 ## 3D Model-
 <img width="809" height="595" alt="Screenshot 2026-06-09 104715" src="https://github.com/user-attachments/assets/83ef4d47-d4e7-4aba-96f8-9e6d042d9517" />
