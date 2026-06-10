@@ -16,4 +16,6 @@ You can find each component used in the schematic below or look at the BOM
 
 ## BOM-
 
+## Credits-
+
 ## License-
