@@ -34,7 +34,7 @@ without being overwhelmed. For me, that meant a sequencer/blinky/LED Chaser- a c
 ## Note-
 This repository contains my modified version of the original **Blinky Board** (https://blueprint.hackclub.com/starter-projects/blinky). 
 
-Special thanks **@Keyaan** for helping me in the process
+Special thanks **@Omruk** & **@Keyaan** for helping me in the process
 
 ## License-
 
