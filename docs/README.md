@@ -6,6 +6,9 @@ This Sequencer is my first ever attempt at pcb making. The 555 IC sends input to
 I wanted to be able to learn pcb design and the steps involved in manufacturing 
 without being overwhelmed. For me, that meant a sequencer/blinky/LED Chaser- a classic hello world project in embedded systems and hardware
 
+## Build-
+To assemble, source the components listed in the BOM and manufacture the PCB by uploading the Gerber Files to JLCPCB.  Begin soldering with the smallest components (resistors), then install the 555 timer and 4017 decade counter.  Solder the LEDs and the C492401 2-pin power header next. Remember:- the longer LED leads and the header's positive pin (check schematic) must match the board markings. Since this circuit uses analog logic where the 555 timer generates clock pulses for the 4017 to sequence the LEDs, no firmware flashing is required- simply connect a 2.54mm female jumper to the C492401 header and power on to verify the chase effect. 
+
 ## 3D Model-
 <img width="809" height="595" alt="Screenshot 2026-06-09 104715" src="https://github.com/user-attachments/assets/83ef4d47-d4e7-4aba-96f8-9e6d042d9517" />
 <img width="733" height="447" alt="Screenshot 2026-06-09 104745" src="https://github.com/user-attachments/assets/e3ed027a-7633-4373-8adb-95911f88479e" />
