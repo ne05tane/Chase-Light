@@ -39,14 +39,3 @@ This repository contains my modified version of the original **Blinky Board** (h
 
 Special thanks **@Omruk** & **@Keyaan** for helping me in the process
 
-## License-
-
-This project is licensed under the **MIT License**.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this hardware design and associated documentation files (the "Design"), to deal in the Design without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Design, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Design.
-
-THE DESIGN IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
-
-Copyright © [2026] [Ana]   
